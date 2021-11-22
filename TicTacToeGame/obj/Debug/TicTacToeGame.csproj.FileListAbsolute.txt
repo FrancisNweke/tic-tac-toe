@@ -1,0 +1,10 @@
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csprojAssemblyReference.cache
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\nweke\Documents\Visual Studio 2017\Projects\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.GameForm.resources
